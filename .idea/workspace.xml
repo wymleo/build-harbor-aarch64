@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d36c77c1-5dbc-46fe-89b6-1f562a26a987" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build-harbor-aarch64.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build-harbor-aarch64.sh" afterDir="false" />
-    </list>
+    <list default="true" id="d36c77c1-5dbc-46fe-89b6-1f562a26a987" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

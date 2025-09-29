@@ -1,4 +1,4 @@
-GIT_BRANCH="v2.13.2"
+GIT_BRANCH="v2.13.0"
 
 # first step: clone harbor ARM code
 git clone https://github.com/wymleo/harbor-arm.git
